@@ -75,7 +75,7 @@ const commands = {
     return {
       version: 1,
       implementation: {
-        language: 'typescript',
+        language: 'javascript',
         name: 'corvus-json-schema',
         version,
         homepage: 'https://github.com/corvus-dotnet/Corvus.JsonSchema',
