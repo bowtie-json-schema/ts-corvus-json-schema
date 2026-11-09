@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@corvus-dotnet/json-schema": "0.1.1"
+    "@corvus-dotnet/json-schema": "0.1.2"
   }
 }
